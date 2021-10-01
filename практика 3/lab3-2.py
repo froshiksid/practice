@@ -7,7 +7,7 @@ print(a)
 
 name = input("What is your name?")  # Текст в скобках выводится перед считыванием данных
 
-print("Hello, " + name)
+print("Hello,",  name)
 
 # Дополните программу так, чтобы она выводила на экран “Hello, <ваше имя>”
 
